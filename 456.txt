@@ -1,1 +1,2 @@
 Hello!
+Want to test how git diff works.
